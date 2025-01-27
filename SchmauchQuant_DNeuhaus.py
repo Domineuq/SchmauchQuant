@@ -10,7 +10,7 @@ Created on Tue Sep 24 15:36:31 2024
 
 @author: Dominique Neuhaus
 
-Quantifizierung von Schmauch: Filmolux-Folie
+Quantification of gunshot residues
 
 
 # Description of main steps
